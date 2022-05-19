@@ -1,0 +1,16 @@
+sudo apt install git -y
+sudo apt install golang -y
+sudo apt install perl -y
+sudo apt install python -y
+sudo apt install python3 -y
+sudo apt install python3-pip -y
+sudo apt install nodejs -y
+sudo apt install npm -y
+apt-get install git -y
+apt-get install golang -y
+apt-get install perl -y
+apt-get install python3 -y
+apt-get install python2 -y
+apt-get install python3-pip -y
+apt-get install nodejs -y
+apt-get install npm -y
